@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Luciano Felisiak, but everybody calls me Lucho. I'm a Sr. Software Engineer.
+- 👋 Hi, My name is Luciano Felisiak, but everybody calls me Lucho. I'm a Sr. Software Engineer @ drive traffic team of Mercadopago.
 - 👀 I’m interested in Outdoor activities, Programming, Algorithms & Data Structures, Pastry and TvShows
 - 🌱 I’m continuosly learning ReactJS and Nodejs
 - 💞️ I’m looking to collaborate on interesting projects inside the organization, so feel free to reach me if you want it.
